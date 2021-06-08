@@ -4,5 +4,5 @@ Made by:
 1. Ervin Halimsurya (https://github.com/ErvinHalimsurya)
 2. Jonathan Richard (https://github.com/jonathanrichardl)  
   
-Database.bin consist of some example student data. when erased, the application can make a new empty one.   
+database.bin consist of some example student data. when erased, the application can make a new empty one.   
 absen1.txt is an example of attendance record done using the app.  
